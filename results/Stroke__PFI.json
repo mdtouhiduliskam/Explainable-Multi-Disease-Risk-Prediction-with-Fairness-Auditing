@@ -1,0 +1,38 @@
+{
+  "top10_features": [
+    "Income",
+    "Education",
+    "Age",
+    "Sex",
+    "DiffWalk",
+    "PhysHlth",
+    "MentHlth",
+    "GenHlth",
+    "NoDocbcCost",
+    "AnyHealthcare"
+  ],
+  "top10_importance": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "top10_std": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ]
+}

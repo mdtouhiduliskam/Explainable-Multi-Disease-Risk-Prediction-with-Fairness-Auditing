@@ -1,0 +1,20 @@
+{
+  "SHAP_PFI": 3,
+  "SHAP_TabNet": 5,
+  "PFI_TabNet": 3,
+  "All_three": 3,
+  "Union_all": [
+    "DiffWalk",
+    "GenHlth",
+    "Income",
+    "Age",
+    "Sex",
+    "Education",
+    "HighChol"
+  ],
+  "Common_all": [
+    "DiffWalk",
+    "Age",
+    "Income"
+  ]
+}

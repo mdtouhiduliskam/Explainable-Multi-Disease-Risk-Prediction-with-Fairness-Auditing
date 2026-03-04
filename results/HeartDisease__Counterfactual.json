@@ -1,0 +1,14 @@
+{
+  "n_patients": 0,
+  "modifiable_features": [
+    "BMI",
+    "PhysActivity",
+    "Fruits",
+    "Veggies",
+    "Smoker",
+    "HvyAlcoholConsump",
+    "MentHlth",
+    "PhysHlth"
+  ],
+  "results": []
+}
